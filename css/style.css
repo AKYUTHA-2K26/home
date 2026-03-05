@@ -357,14 +357,24 @@ body {
 /* RESPONSIVE */
 
 @media (max-width: 900px) {
+
   .hero {
     flex-direction: column;
     text-align: center;
     gap: 40px;
+    align-items: center;   /* center everything */
+  }
+
+  .hero-graphic{
+    display:flex;
+    justify-content:center; /* center image horizontally */
+    width:100%;
   }
 
   .hero-graphic img {
-    width: 280px;
+    width:280px;
+    margin:auto;           /* ensure center alignment */
+    display:block;
   }
 
   .event-container {
@@ -375,4 +385,5 @@ body {
   .navbar {
     padding: 20px;
   }
+
 }
