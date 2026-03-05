@@ -1,0 +1,309 @@
+{
+  "event_categories": [
+    {
+      "category": "Finance",
+      "events": [
+        {
+          "id": "cash-craft",
+          "name": "Cash Craft",
+          "participation": "Individual",
+          "team_size": "1",
+          "registration_fee": "₹100",
+          "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSe3OwEqFUiwcmogVscBKD1IEP-JiKmGQrTi4yiR6o2rYiJGbA/viewform?usp=header",
+          "payment_link": "upi://pay?pa=8309134274@axl&pn=Thappeta%20Prince%20Joseph&mc=0000&mode=02&purpose=00",
+          "prize": {
+            "first": "₹300",
+            "second": "₹200"
+          },
+          "description": "Interactive personal finance simulation where participants manage income, expenses, liabilities and investments.",
+          "event_flow": [
+            "Players receive financial profile",
+            "Roll dice and move across board",
+            "Encounter opportunities and expenses",
+            "Make investment decisions"
+          ],
+          "winning_criteria": "First participant whose passive income equals or exceeds monthly expenses wins.",
+          "coordinator": "Prince Joseph"
+        },
+        {
+          "id": "cfo-edge",
+          "name": "CFO Edge",
+          "participation": "Team",
+          "team_size": "2",
+          "registration_fee": "₹299 / team",
+          "registration_link": "",
+          "payment_link":"",
+          "prize": {
+            "first": "₹3000",
+            "second": "₹2000"
+          },
+          "description": "Finance strategy competition where teams act as corporate financial decision makers.",
+          "event_flow": [
+            "Financial analysis",
+            "Cash flow management",
+            "Budgeting simulation",
+            "Strategy decisions",
+            "Boardroom presentation"
+          ],
+          "winning_criteria": "Evaluation based on financial logic, risk awareness and strategy feasibility."
+        },
+        {
+          "id": "tradethan",
+          "name": "Tradethan",
+          "participation": "Team",
+          "team_size": "Max 2",
+          "registration_fee": "₹299 / participant",
+          "registration_link": "",
+          "payment_link":"",
+          "prize": {
+            "winner": "₹3000",
+            "runner": "₹2000"
+          },
+          "description": "Stock market trading simulation using virtual investment portfolios.",
+          "event_flow": [
+            "Teams receive ₹10,00,000 virtual capital",
+            "Trade equities and options",
+            "Manage portfolio"
+          ],
+          "winning_criteria": "Team with highest final portfolio value wins."
+        }
+      ]
+    },
+    {
+      "category": "HR",
+      "events": [
+        {
+          "id": "dhruta",
+          "name": "Dhruta – Quick Challenges",
+          "participation": "Individual / Team (depends on challenge)",
+          "team_size": "Varies per activity",
+          "registration_fee": "₹49 / team",
+          "registration_type": "Spot Registration Only",
+          "prize": {
+            "winner": "To Be Announced",
+            "runner": "To Be Announced"
+          },
+          "description": "Dhruta – Quick Challenges is a fun activity-based competition featuring multiple short tasks designed to test teamwork, coordination, communication, and quick thinking.",
+          "participation_structure": [
+            "Pass the Ring – 5–7 members",
+            "Communication Connect – 2 members",
+            "Stand the Bottle – Individual or Team",
+            "Cup Se Cup Tak – 4–6 members"
+          ],
+          "event_flow": [
+            "Teams participate in multiple quick mini-games.",
+            "Each game focuses on coordination, speed, and teamwork.",
+            "Participants rotate through different challenge stations."
+          ],
+          "winning_criteria": "Performance across mini-games such as passing a ring through a circle without breaking hands, relaying messages accurately, balancing a bottle upright, and transferring a ball between cups using only air."
+        },
+        {
+          "id": "nitisastra",
+          "name": "Nitisastra",
+          "participation": "Team",
+          "team_size": "2",
+          "registration_fee": "₹299 / team",
+          "registration_link": "",
+          "payment_link":"",
+          "prize": {
+            "winner": "₹3000",
+            "runner": "₹2000"
+          },
+          "description": "Workplace negotiation simulation where teams represent organizational roles.",
+          "event_flow": [
+            "Teams pick roles",
+            "Receive conflict scenario",
+            "Negotiation rounds",
+            "Final evaluation"
+          ],
+          "winning_criteria": "Role understanding, communication and teamwork."
+        },
+        {
+          "id": "medha",
+          "name": "Medha",
+          "participation": "Team",
+          "team_size": "3-5",
+          "registration_fee": "₹299",
+          "registration_link": "",
+          "payment_link":"",
+          "prize": {
+            "winner": "₹3000",
+            "runner": "₹2000"
+          },
+          "description": "Multi-level HR challenge testing HR knowledge and leadership.",
+          "event_flow": [
+            "HR Crossword",
+            "HR Case Study",
+            "HR Decoder",
+            "Hidden HR Challenge",
+            "HR Policy Puzzle"
+          ],
+          "winning_criteria": "Coordination, analytical thinking and leadership."
+        }
+      ]
+    },
+    {
+      "category": "Marketing",
+      "events": [
+        {
+          "id": "mudra-vardhanam",
+          "name": "Mudra Vardhanam",
+          "participation": "Team",
+          "team_size": "2-3",
+          "registration_fee": "₹299",
+          "registration_link": "",
+          "payment_link":"",
+          "prize": {
+            "winner": "₹3000",
+            "runner": "₹2000"
+          },
+          "description": "Brand creation and promotion challenge.",
+          "event_flow": [
+            "Brand identity creation",
+            "Promotional video",
+            "Final pitch presentation"
+          ],
+          "winning_criteria": "Strongest marketing strategy and pitch."
+        },
+        {
+          "id": "add-buzz",
+          "name": "Add Buzz",
+          "participation": "Team",
+          "team_size": "2-4",
+          "registration_fee": "₹299",
+          "registration_link": "",
+          "payment_link":"",
+          "prize": {
+            "winner": "₹3000",
+            "runner": "₹2000"
+          },
+          "description": "Marketing video challenge testing creativity.",
+          "event_flow": [
+            "Promotional video",
+            "Shortlist round",
+            "Second challenge",
+            "Final evaluation"
+          ],
+          "winning_criteria": "Creativity, strategy and impact."
+        },
+        {
+          "id": "market-the-unmarketable",
+          "name": "Market the Unmarketable",
+          "participation": "Individual",
+          "team_size": "1",
+          "registration_fee": "₹49",
+          "registration_link": "",
+          "payment_link":"",
+          "description": "Participants sell unusual items using creativity and persuasion.",
+          "winning_criteria": "Final negotiated price becomes the reward."
+        }
+      ]
+    },
+    {
+      "category": "Startup",
+      "events": [
+        {
+          "id": "shark-tank",
+          "name": "Shark Tank",
+          "participation": "Team",
+          "team_size": "2-4",
+          "registration_fee": "₹249",
+          "registration_link": "",
+          "payment_link":"",
+          "prize": {
+            "first": "₹5001",
+            "second": "₹3001"
+          },
+          "description": "Startup pitching competition evaluated by investor panel.",
+          "event_flow": [
+            "Pitch deck submission",
+            "6-minute pitch",
+            "4-minute investor Q&A"
+          ],
+          "winning_criteria": "Business feasibility and presentation."
+        }
+      ]
+    },
+    {
+      "category": "Business",
+      "events": [
+        {
+          "id": "bizmasters",
+          "name": "BizMasters Quiz",
+          "participation": "Team",
+          "team_size": "2",
+          "registration_fee": "₹259",
+          "registration_link": "",
+          "payment_link":"",
+          "prize": {
+            "winner": "₹5000",
+            "runner": "₹3000"
+          },
+          "description": "Corporate business quiz on economy and brands.",
+          "event_flow": [
+            "Written elimination",
+            "Quiz rounds",
+            "Rapid fire finale"
+          ]
+        },
+        {
+          "id": "treasure-hunt",
+          "name": "Treasure Hunt",
+          "participation": "Team",
+          "team_size": "5",
+          "registration_fee": "₹499",
+          "registration_link": "",
+          "payment_link":"",
+          "prize": {
+            "winner": "₹10,001"
+          },
+          "description": "Campus adventure challenge solving clues.",
+          "event_flow": [
+            "Receive map",
+            "Solve clues",
+            "Collect 10 tokens",
+            "Reach final checkpoint"
+          ],
+          "winning_criteria": "First team reaching final checkpoint within 2 hours."
+        },
+        {
+          "id": "best-manager",
+          "name": "Best Manager (Senapati)",
+          "participation": "Individual",
+          "team_size": "1",
+          "registration_fee": "₹249",
+          "registration_link": "",
+          "payment_link":"",
+          "prize": {
+            "winner": "₹5001"
+          },
+          "description": "Managerial competition testing leadership and decision making."
+        }
+      ]
+    },
+    {
+      "category": "Cultural",
+      "events": [
+        {
+          "id": "rangaprathibha",
+          "name": "Rangaprathibha",
+          "participation": "Team",
+          "team_size": "2-8",
+          "registration_fee": {
+            "singing": "₹299",
+            "dance": "₹299",
+            "ramp_walk": "₹499"
+          },
+          "registration_link": "",
+          "payment_link":"",
+          "prize": {
+            "singing": "Winner ₹5000, Runner ₹3000",
+            "dance": "Winner ₹5000, Runner ₹3000",
+            "ramp_walk": "Winner ₹3000, Runner ₹2000"
+          },
+          "description": "Intercollege cultural competition including singing, dance and ramp walk."
+        }
+      ]
+    }
+  ]
+}
