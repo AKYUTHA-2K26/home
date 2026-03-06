@@ -15,12 +15,12 @@
             "first": "₹300",
             "second": "₹200"
           },
-          "description": "Interactive personal finance simulation where participants manage income, expenses, liabilities and investments.",
+          "description": "Cash Craft is an interactive personal finance simulation where participants manage income, expenses, liabilities, and investments to build passive income that eventually exceeds their monthly expenses through smart financial decisions.",
           "event_flow": [
-            "Players receive financial profile",
-            "Roll dice and move across board",
-            "Encounter opportunities and expenses",
-            "Make investment decisions"
+            "Players receive a financial profile with salary, expenses, and savings",
+            "Players roll dice and move across the board",
+            "Players encounter opportunities, expenses, liabilities, and payday income",
+            "Players decide whether to invest and manage their finances strategically"
           ],
           "winning_criteria": "First participant whose passive income equals or exceeds monthly expenses wins.",
           "coordinator": "Prince Joseph"
@@ -31,21 +31,22 @@
           "participation": "Team",
           "team_size": "2",
           "registration_fee": "₹299 / team",
-          "registration_link": "",
-          "payment_link":"",
+          "registration_link": "https://forms.gle/Cvo4MJMbWTe8jW3q6",
+          "payment_link": "",
           "prize": {
             "first": "₹3000",
             "second": "₹2000"
           },
-          "description": "Finance strategy competition where teams act as corporate financial decision makers.",
+          "description": "CFO Edge is a finance strategy competition where teams act as corporate financial decision-makers, analyzing financial situations, managing budgets, and making strategic decisions under pressure to demonstrate their financial leadership skills.",
           "event_flow": [
-            "Financial analysis",
-            "Cash flow management",
-            "Budgeting simulation",
-            "Strategy decisions",
-            "Boardroom presentation"
+            "Teams register and receive the competition briefing",
+            "Round 1: Financial analysis challenge",
+            "Round 2: Cash flow management task",
+            "Round 3: Budgeting simulation",
+            "Round 4: Strategic decision-making challenge",
+            "Top teams advance to the final boardroom presentation"
           ],
-          "winning_criteria": "Evaluation based on financial logic, risk awareness and strategy feasibility."
+          "winning_criteria": "Teams are evaluated based on their financial logic, risk awareness, feasibility of solutions, and effectiveness of strategic decision-making."
         },
         {
           "id": "tradethan",
@@ -53,19 +54,22 @@
           "participation": "Team",
           "team_size": "Max 2",
           "registration_fee": "₹299 / participant",
-          "registration_link": "",
-          "payment_link":"",
+          "registration_link": "https://docs.google.com/forms/d/1moY-yrFP3CPlmNItK-21TiIymmzGBTvfOlIUvqzF0BU/viewform",
+          "payment_link": "",
           "prize": {
             "winner": "₹3000",
             "runner": "₹2000"
           },
-          "description": "Stock market trading simulation using virtual investment portfolios.",
+          "description": "Tradethan is a stock market trading simulation where teams manage a virtual investment portfolio and compete to generate the highest returns by trading equities and options within a controlled trading environment.",
           "event_flow": [
-            "Teams receive ₹10,00,000 virtual capital",
-            "Trade equities and options",
-            "Manage portfolio"
+            "Teams register and receive the trading briefing",
+            "Each team is allocated ₹10,00,000 virtual trading capital",
+            "Participants access the designated trading platform",
+            "Teams trade equities and options while following trading rules and limits",
+            "Teams manage and adjust their portfolios throughout the trading session",
+            "Final portfolio values are evaluated to determine the winners"
           ],
-          "winning_criteria": "Team with highest final portfolio value wins."
+          "winning_criteria": "The winning team is determined based on the highest final portfolio value, considering cash balance, stock value, options value, portfolio diversification, and overall trading strategy."
         }
       ]
     },
@@ -103,20 +107,22 @@
           "participation": "Team",
           "team_size": "2",
           "registration_fee": "₹299 / team",
-          "registration_link": "",
-          "payment_link":"",
+          "registration_link": "https://forms.gle/vBGo9qeBrfVKZLgv8",
+          "payment_link": "",
           "prize": {
             "winner": "₹3000",
             "runner": "₹2000"
           },
-          "description": "Workplace negotiation simulation where teams represent organizational roles.",
+          "description": "Negotiation Battle is a simulation-based competition where teams represent organizational roles and resolve workplace conflicts by negotiating strategic agreements using persuasion, communication, and negotiation skills.",
           "event_flow": [
-            "Teams pick roles",
-            "Receive conflict scenario",
-            "Negotiation rounds",
-            "Final evaluation"
+            "Teams randomly pick organizational roles such as HR Manager, Finance Manager, or Trade Union Leader",
+            "A workplace conflict scenario is assigned to each team",
+            "Teams prepare their strategy based on their assigned role",
+            "Participants negotiate to defend their role’s interests and reach a resolution",
+            "Teams compete through elimination rounds",
+            "Top teams advance to the semifinals and final negotiation round"
           ],
-          "winning_criteria": "Role understanding, communication and teamwork."
+          "winning_criteria": "Teams are evaluated based on their understanding of the assigned role, communication effectiveness, quality of arguments, negotiation skills, teamwork, and their ability to reach a practical solution."
         },
         {
           "id": "medha",
@@ -124,21 +130,21 @@
           "participation": "Team",
           "team_size": "3-5",
           "registration_fee": "₹299",
-          "registration_link": "",
-          "payment_link":"",
+          "registration_link": "https://forms.gle/pByC8Pzxmr7JumFx6",
+          "payment_link": "",
           "prize": {
             "winner": "₹3000",
             "runner": "₹2000"
           },
-          "description": "Multi-level HR challenge testing HR knowledge and leadership.",
+          "description": "HR Ascend is a multi-level HR challenge designed to test participants’ knowledge, analytical ability, communication skills, leadership, and strategic thinking through competitive HR-based activities and puzzles.",
           "event_flow": [
-            "HR Crossword",
-            "HR Case Study",
-            "HR Decoder",
-            "Hidden HR Challenge",
-            "HR Policy Puzzle"
+            "Level 1: HR Crossword Puzzle to test participants' HR knowledge",
+            "Level 2: HR Case Study Analysis where teams identify HR problems and propose solutions",
+            "Level 3: HR Decoder where teams decode HR terms and abbreviations",
+            "Level 4: Hidden HR Challenge testing leadership and trust through task-based activities",
+            "Level 5: HR Policy Puzzle where teams match workplace scenarios with the correct HR policies"
           ],
-          "winning_criteria": "Coordination, analytical thinking and leadership."
+          "winning_criteria": "Teams are evaluated based on their coordination, analytical thinking, communication skills, leadership, and overall performance across all levels of the competition."
         }
       ]
     },
@@ -151,19 +157,19 @@
           "participation": "Team",
           "team_size": "2-3",
           "registration_fee": "₹299",
-          "registration_link": "",
-          "payment_link":"",
+          "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSc9SVQnoZaqBV03MrbCvuWZ67TMJ93xs9rJPbcE7K1QgGVGfQ/viewform",
+          "payment_link": "",
           "prize": {
             "winner": "₹3000",
             "runner": "₹2000"
           },
-          "description": "Brand creation and promotion challenge.",
+          "description": "Mudra Vardhanam is a brand-building challenge where teams create a brand, promote it, and present their pitch to judges, testing their creativity, teamwork, marketing strategy, and salesmanship.",
           "event_flow": [
-            "Brand identity creation",
-            "Promotional video",
-            "Final pitch presentation"
+            "Round 1: Teams create a brand identity including name, logo, tagline, and positioning",
+            "Round 2: Teams produce a 2-minute promotional video, and top teams are shortlisted based on views",
+            "Round 3: Finalist teams pitch and sell their brand to the judges in a 10-minute presentation"
           ],
-          "winning_criteria": "Strongest marketing strategy and pitch."
+          "winning_criteria": "The winning team is the one that most convincingly sells their brand and demonstrates the strongest marketing strategy."
         },
         {
           "id": "add-buzz",
@@ -171,20 +177,19 @@
           "participation": "Team",
           "team_size": "2-4",
           "registration_fee": "₹299",
-          "registration_link": "",
-          "payment_link":"",
+          "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSdlLW6GXZjMQni7OHpGn_NplHO5NdJHVe1uyoamOQ0-IPk_rg/viewform",
+          "payment_link": "",
           "prize": {
             "winner": "₹3000",
             "runner": "₹2000"
           },
-          "description": "Marketing video challenge testing creativity.",
+          "description": "Add-Buzz is a marketing video challenge where teams create short promotional videos to showcase their creativity, branding intelligence, storytelling, and strategic communication skills.",
           "event_flow": [
-            "Promotional video",
-            "Shortlist round",
-            "Second challenge",
-            "Final evaluation"
+            "Round 1: Teams create a 2-minute promotional video on an open theme; top 10 teams are shortlisted",
+            "Round 2: Shortlisted teams receive a faculty-assigned promotional challenge and submit another 2-minute video",
+            "Round 3: Top 3 teams participate in a final interaction session with faculty before the winner is declared"
           ],
-          "winning_criteria": "Creativity, strategy and impact."
+          "winning_criteria": "Teams are judged based on creativity, marketing strategy, brand positioning, clarity of concept, technical execution, and overall impact."
         },
         {
           "id": "market-the-unmarketable",
@@ -192,10 +197,18 @@
           "participation": "Individual",
           "team_size": "1",
           "registration_fee": "₹49",
-          "registration_link": "",
-          "payment_link":"",
-          "description": "Participants sell unusual items using creativity and persuasion.",
-          "winning_criteria": "Final negotiated price becomes the reward."
+          "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSfe0Fvog6lveQHhUoQyHrWcfuDklTe7lwMyG21hq0fXR-Z_Hw/viewform",
+          "payment_link": "",
+          "description": "Market the Unmarketable is a live selling challenge where participants attempt to sell unusual or seemingly worthless items using creativity, persuasion, storytelling, and negotiation skills.",
+          "event_flow": [
+            "Participants walk in and randomly pick a hidden product from a box",
+            "Participants get 2 minutes to prepare their sales pitch",
+            "Participants have 2 minutes to convince a buyer volunteer to purchase the item using verbal persuasion"
+          ],
+          "prize": {
+            "": "Any earnings from the challenge will belong entirely to the participants."
+          },
+          "winning_criteria": "If a participant successfully sells the product, the final negotiated price becomes their reward; if the product is not sold within the time limit, no reward is given."
         }
       ]
     },
@@ -208,19 +221,19 @@
           "participation": "Team",
           "team_size": "2-4",
           "registration_fee": "₹249",
-          "registration_link": "",
-          "payment_link":"",
+          "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSfP_qwRMgKWv-UeGRMMMHi7HabgBPyxM9pWJg-boLFDFCSfSA/viewform",
+          "payment_link": "",
           "prize": {
             "first": "₹5001",
             "second": "₹3001"
           },
-          "description": "Startup pitching competition evaluated by investor panel.",
+          "description": "Dragon’s Den is a startup pitching competition where teams present innovative business ideas to a panel of judges acting as investors, simulating real-world fundraising and evaluating business feasibility, valuation logic, and presentation skills.",
           "event_flow": [
-            "Pitch deck submission",
-            "6-minute pitch",
-            "4-minute investor Q&A"
+            "Teams register by submitting their startup details and an 8-slide pitch deck",
+            "Each team presents their startup idea in a 6-minute pitch",
+            "Teams participate in a 4-minute investor Q&A session where judges evaluate the idea and business model"
           ],
-          "winning_criteria": "Business feasibility and presentation."
+          "winning_criteria": "Teams are evaluated based on problem–solution fit, strength of the business model, financial feasibility, quality of the pitch presentation, and their ability to handle investor questions effectively."
         }
       ]
     },
@@ -233,17 +246,19 @@
           "participation": "Team",
           "team_size": "2",
           "registration_fee": "₹259",
-          "registration_link": "",
-          "payment_link":"",
+          "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSdnfqpn2RiZi32hk7ER12KCo837mJ6fZ-gaPBdzVN0SkQOKfA/viewform",
+          "payment_link": "",
           "prize": {
             "winner": "₹5000",
             "runner": "₹3000"
           },
-          "description": "Corporate business quiz on economy and brands.",
+          "description": "BizMasters is a corporate business quiz that tests participants’ knowledge of business, economy, brands, startups, and corporate leaders through multiple competitive quiz rounds.",
           "event_flow": [
-            "Written elimination",
-            "Quiz rounds",
-            "Rapid fire finale"
+            "The competition begins with a written elimination test consisting of business-related MCQs",
+            "Shortlisted teams compete in multiple quiz rounds including clue-based business identification",
+            "Teams answer corporate general knowledge questions",
+            "Teams participate in brand identity recognition challenges",
+            "The competition concludes with a final rapid-fire round to determine the winner"
           ]
         },
         {
@@ -252,17 +267,18 @@
           "participation": "Team",
           "team_size": "5",
           "registration_fee": "₹499",
-          "registration_link": "",
-          "payment_link":"",
+          "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLScQAmt3QGdFRAH0ZMEKCUQ7Qx5YYQkqBFb-US6Wh01uwtNj4g/viewform",
+          "payment_link": "",
           "prize": {
             "winner": "₹10,001"
           },
-          "description": "Campus adventure challenge solving clues.",
+          "description": "Treasure Hunt is an adventurous campus challenge where teams solve clues and race across different locations to collect hidden tokens, testing their teamwork, problem-solving, navigation skills, and quick decision-making while exploring the Central University of Karnataka campus.",
           "event_flow": [
-            "Receive map",
-            "Solve clues",
-            "Collect 10 tokens",
-            "Reach final checkpoint"
+            "Teams receive a color-printed campus map and the first clue",
+            "Each solved clue leads teams to the next location across the campus",
+            "Teams collect a total of 10 tokens placed at different checkpoints",
+            "Volunteers monitor each zone to ensure fair play",
+            "Teams must reach the final checkpoint within the time limit"
           ],
           "winning_criteria": "First team reaching final checkpoint within 2 hours."
         },
@@ -272,12 +288,18 @@
           "participation": "Individual",
           "team_size": "1",
           "registration_fee": "₹249",
-          "registration_link": "",
-          "payment_link":"",
+          "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSfnJY_qFHhi_ZK9VanLfEucgMUQcLyro8SykUeNBiMeBIJAAw/viewform",
+          "payment_link": "",
           "prize": {
             "winner": "₹5001"
           },
-          "description": "Managerial competition testing leadership and decision making."
+          "description": "Senapati (Best Manager Challenge) is a premier business simulation competition that identifies future leaders and decision-makers, evaluating participants’ leadership, strategic thinking, crisis management, and decision-making skills through real-world business scenarios and managerial challenges.",
+          "event_flow": [
+            "The competition consists of multiple rounds designed to assess managerial skills",
+            "Rounds evaluate leadership, strategic thinking, and crisis management",
+            "Participants face real-world business scenarios and decision-making challenges",
+            "Top performers advance through successive rounds to the final stage"
+          ]
         }
       ]
     },
@@ -289,19 +311,20 @@
           "name": "Rangaprathibha",
           "participation": "Team",
           "team_size": "2-8",
-          "registration_fee": {
-            "singing": "₹299",
-            "dance": "₹299",
-            "ramp_walk": "₹499"
-          },
+          "registration_fee": "singing : ₹299 | dance : ₹299 | ramp_walk : ₹499",
           "registration_link": "",
-          "payment_link":"",
+          "payment_link": "",
           "prize": {
             "singing": "Winner ₹5000, Runner ₹3000",
             "dance": "Winner ₹5000, Runner ₹3000",
             "ramp_walk": "Winner ₹3000, Runner ₹2000"
           },
-          "description": "Intercollege cultural competition including singing, dance and ramp walk."
+          "description": "Rangaprathibha is an intercollege cultural competition organized by the Cultural Committee of the Central University of Karnataka, celebrating creativity, talent, and cultural diversity by providing a vibrant platform for students to showcase their artistic abilities through singing, dance, and ramp walk performances.",
+          "event_flow": [
+            "Group Singing: Teams of 2–8 members perform songs with optional instruments or karaoke (4-minute limit)",
+            "Group Dance: Indo-Western themed dance performance by teams of up to 8 members (4-minute limit)",
+            "Ramp Walk: Teams of up to 8 members present costumes based on the theme 'Beauty of Bharat' while following dress code guidelines"
+          ]
         }
       ]
     }
