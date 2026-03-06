@@ -36,7 +36,11 @@
           "team_size": "2",
           "registration_fee": "₹299 / team",
           "registration_link": "https://forms.gle/Cvo4MJMbWTe8jW3q6",
-          "payment_link": "upi://pay?pa=8309134274@axl&pn=Thappeta+Prince+Joseph&mc=0000&mode=02&purpose=00",
+          "payment": {
+            "upi_id": "8309134274@axl",
+            "name": "Thappeta Prince Joseph",
+            "amount": "299"
+          },
           "prize": {
             "first": "₹3000",
             "second": "₹2000"
@@ -59,7 +63,11 @@
           "team_size": "Max 2",
           "registration_fee": "₹299 / participant",
           "registration_link": "https://docs.google.com/forms/d/1moY-yrFP3CPlmNItK-21TiIymmzGBTvfOlIUvqzF0BU/viewform",
-          "payment_link": "upi://pay?pa=9606565226@ibl&pn=BAPURAO+MALLINATH+BIRADAR&mc=0000&mode=02&purpose=00",
+          "payment": {
+            "upi_id": "9606565226@ibl",
+            "name": "BAPURAO MALLINATH BIRADAR",
+            "amount": "299"
+          },
           "prize": {
             "winner": "₹3000",
             "runner": "₹2000"
@@ -112,7 +120,11 @@
           "team_size": "2",
           "registration_fee": "₹299 / team",
           "registration_link": "https://forms.gle/vBGo9qeBrfVKZLgv8",
-          "payment_link": "upi://pay?pa=9480662513@ybl&pn=NIKHIL+.&mc=0000&mode=02&purpose=00",
+          "payment": {
+            "upi_id": "9480662513@ybl",
+            "name": "NIKHIL .",
+            "amount": "299"
+          },
           "prize": {
             "winner": "₹3000",
             "runner": "₹2000"
@@ -135,7 +147,11 @@
           "team_size": "3-5",
           "registration_fee": "₹299",
           "registration_link": "https://forms.gle/pByC8Pzxmr7JumFx6",
-          "payment_link": "upi://pay?pa=9480662513@ybl&pn=NIKHIL%20%20.&mc=0000&mode=02&purpose=00",
+          "payment": {
+            "upi_id": "9480662513@ybl",
+            "name": "NIKHIL  .",
+            "amount": "299"
+          },
           "prize": {
             "winner": "₹3000",
             "runner": "₹2000"
@@ -162,7 +178,11 @@
           "team_size": "2-3",
           "registration_fee": "₹299",
           "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSc9SVQnoZaqBV03MrbCvuWZ67TMJ93xs9rJPbcE7K1QgGVGfQ/viewform",
-          "payment_link": "upi://pay?pa=9832888601@ptsbi&pn=RAHUL+MAJUMDAR",
+          "payment": {
+            "upi_id": "9832888601@ptsbi",
+            "name": "RAHUL MAJUMDAR",
+            "amount": "299"
+          },
           "prize": {
             "winner": "₹3000",
             "runner": "₹2000"
@@ -182,7 +202,11 @@
           "team_size": "2-4",
           "registration_fee": "₹299",
           "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSdlLW6GXZjMQni7OHpGn_NplHO5NdJHVe1uyoamOQ0-IPk_rg/viewform",
-          "payment_link": "upi://pay?pa=9832888601@ptsbi&pn=RAHUL%20MAJUMDAR",
+          "payment": {
+            "upi_id": "9832888601@ptsbi",
+            "name": "RAHUL MAJUMDAR",
+            "amount": "299"
+          },
           "prize": {
             "winner": "₹3000",
             "runner": "₹2000"
@@ -202,7 +226,11 @@
           "team_size": "1",
           "registration_fee": "₹49",
           "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSfe0Fvog6lveQHhUoQyHrWcfuDklTe7lwMyG21hq0fXR-Z_Hw/viewform",
-          "payment_link": "upi://pay?pa=9908583579@ibl&pn=LAKSHMIPRASANNA+YAL&mc=0000&mode=02&purpose=00",
+          "payment": {
+            "upi_id": "9908583579@ibl",
+            "name": "LAKSHMIPRASANNA YAL",
+            "amount": "299"
+          },
           "description": "Market the Unmarketable is a live selling challenge where participants attempt to sell unusual or seemingly worthless items using creativity, persuasion, storytelling, and negotiation skills.",
           "event_flow": [
             "Participants walk in and randomly pick a hidden product from a box",
@@ -226,7 +254,11 @@
           "team_size": "2-4",
           "registration_fee": "₹249",
           "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSfP_qwRMgKWv-UeGRMMMHi7HabgBPyxM9pWJg-boLFDFCSfSA/viewform",
-          "payment_link": "upi://pay?pa=amirbhai9616@axl&pn=AMIR+FAIZI&mc=0000&mode=02&purpose=00",
+          "payment": {
+            "upi_id": "amirbhai9616@axl",
+            "name": "AMIR FAIZI",
+            "amount": "299"
+          },
           "prize": {
             "first": "₹5001",
             "second": "₹3001"
@@ -251,7 +283,11 @@
           "team_size": "2",
           "registration_fee": "₹259",
           "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSdnfqpn2RiZi32hk7ER12KCo837mJ6fZ-gaPBdzVN0SkQOKfA/viewform",
-          "payment_link": "upi://pay?pa=8310209115@ibl&pn=AKSHAY%20KUMAR&mc=0000&mode=02&purpose=00",
+          "payment": {
+            "upi_id": "8310209115@ibl",
+            "name": "AKSHAY KUMAR",
+            "amount": "299"
+          },
           "prize": {
             "winner": "₹5000",
             "runner": "₹3000"
@@ -272,7 +308,11 @@
           "team_size": "5",
           "registration_fee": "₹499",
           "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLScQAmt3QGdFRAH0ZMEKCUQ7Qx5YYQkqBFb-US6Wh01uwtNj4g/viewform",
-          "payment_link": "upi://pay?pa=sangameshwaigaonkar@oksbi&pn=Sangamesh+Waigaonkar&aid=uGICAgICrs-CLPQ",
+          "payment": {
+            "upi_id": "sangameshwaigaonkar@oksbi",
+            "name": "Sangamesh Waigaonkar",
+            "amount": "299"
+          },
           "prize": {
             "winner": "₹10,001"
           },
@@ -293,7 +333,11 @@
           "team_size": "1",
           "registration_fee": "₹249",
           "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSfnJY_qFHhi_ZK9VanLfEucgMUQcLyro8SykUeNBiMeBIJAAw/viewform",
-          "payment_link": "upi://pay?pa=8884746597@axl&pn=SAGAR+HIREMATH&mc=0000&mode=02&purpose=00",
+          "payment": {
+            "upi_id": "8884746597@axl",
+            "name": "SAGAR HIREMATH",
+            "amount": "299"
+          },
           "prize": {
             "winner": "₹5001"
           },
@@ -317,7 +361,11 @@
           "team_size": "2-8",
           "registration_fee": "singing : ₹299 | dance : ₹299 | ramp_walk : ₹499",
           "registration_link": "",
-          "payment_link": "upi://pay?pa=thameenathajudheen@okicici&pn=Thameena+Thajudheen&am=500&cu=INR&tn=Event+Payment&aid=uGICAgICjpdOmPA",
+          "payment": {
+            "upi_id": "thameenathajudheen@okicici",
+            "name": "Thameena Thajudheen",
+            "amount": "500"
+          },
           "prize": {
             "singing": "Winner ₹5000, Runner ₹3000",
             "dance": "Winner ₹5000, Runner ₹3000",

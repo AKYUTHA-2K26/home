@@ -17,38 +17,37 @@ async function loadEvent () {
     })
   })
 
-const registerBtn = document.getElementById("register-btn")
-const paymentBtn = document.getElementById("payment-btn")
-const spotNote = document.getElementById("spot-note")
+  const registerBtn = document.getElementById('register-btn')
+  const paymentQR = document.getElementById('qr-image')
+  const spotNote = document.getElementById('spot-note')
 
-if (selectedEvent.registration_type === "spot") {
+  if (selectedEvent.registration_type === 'spot') {
+    registerBtn.style.display = 'none'
+    paymentQR.style.display = 'none'
 
-  registerBtn.style.display = "none"
-  paymentBtn.style.display = "none"
-
-  spotNote.textContent = "Registration will be done at the event venue."
-
-} else {
-
-  if (selectedEvent.registration_link){
-    registerBtn.href = selectedEvent.registration_link
+    spotNote.textContent = 'Registration will be done at the event venue.'
   } else {
-    registerBtn.style.display = "none"
+    if (selectedEvent.registration_link) {
+      registerBtn.href = selectedEvent.registration_link
+    } else {
+      registerBtn.style.display = 'none'
+    }
+
+    if (selectedEvent.payment) {
+      paymentQR.src = `media/events/${selectedEvent.id}/qr.jpg`
+      // Copy UPI ID to clipboard
+      paymentQR.addEventListener('click', () => {
+        navigator.clipboard
+          .writeText(selectedEvent.payment.upi_id)
+          .then(() =>
+            alert('UPI ID copied! Open your UPI app and paste to pay.')
+          )
+          .catch(err => alert('Failed to copy UPI ID.'))
+      })
+    } else {
+      paymentQR.style.display = 'none'
+    }
   }
-
-  if (selectedEvent.payment){
-    const upiId = selectedEvent.payment.upi_id;   // 8309134274@axl
-    const name = encodeURIComponent(selectedEvent.payment.name); // Thappeta%20Prince%20Joseph
-    const amount = selectedEvent.payment.amount; // 299
-
-    const upiLink = `upi://pay?pa=${upiId}&pn=${name}&am=${amount}&cu=INR`;
-    paymentBtn.href = upiLink;
-    paymentBtn.innerText = `Pay ₹${amount}`;
-  } else {
-    paymentBtn.style.display = "none"
-  }
-
-}
 
   if (!selectedEvent) return
   document.getElementById(
