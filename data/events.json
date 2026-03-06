@@ -10,7 +10,11 @@
           "team_size": "1",
           "registration_fee": "₹100",
           "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSe3OwEqFUiwcmogVscBKD1IEP-JiKmGQrTi4yiR6o2rYiJGbA/viewform?usp=header",
-          "payment_link": "upi://pay?pa=8309134274@axl&pn=Thappeta+Prince+Joseph&mc=0000&mode=02&purpose=00",
+          "payment": {
+            "upi_id": "8309134274@axl",
+            "name": "Thappeta Prince Joseph",
+            "amount": "299"
+          },
           "prize": {
             "first": "₹300",
             "second": "₹200"

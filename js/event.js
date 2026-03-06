@@ -36,8 +36,8 @@ if (selectedEvent.registration_type === "spot") {
     registerBtn.style.display = "none"
   }
 
-  if (selectedEvent.payment_link){
-    paymentBtn.href = selectedEvent.payment_link
+  if (selectedEvent.payment){
+    paymentBtn.href = `upi://pay?pa=${selectedEvent.payment.upi_id}&pn=${encodeURIComponent(selectedEvent.payment.name)}&am=${selectedEvent.payment.amount}&cu=INR`
   } else {
     paymentBtn.style.display = "none"
   }
