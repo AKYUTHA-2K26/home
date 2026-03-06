@@ -37,7 +37,13 @@ if (selectedEvent.registration_type === "spot") {
   }
 
   if (selectedEvent.payment){
-    paymentBtn.href = `upi://pay?pa=${selectedEvent.payment.upi_id}&pn=${encodeURIComponent(selectedEvent.payment.name)}&am=${selectedEvent.payment.amount}&cu=INR`
+    const upiId = selectedEvent.payment.upi_id;   // 8309134274@axl
+    const name = encodeURIComponent(selectedEvent.payment.name); // Thappeta%20Prince%20Joseph
+    const amount = selectedEvent.payment.amount; // 299
+
+    const upiLink = `upi://pay?pa=${upiId}&pn=${name}&am=${amount}&cu=INR`;
+    paymentBtn.href = upiLink;
+    paymentBtn.innerText = `Pay ₹${amount}`;
   } else {
     paymentBtn.style.display = "none"
   }
