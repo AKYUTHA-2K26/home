@@ -17,7 +17,7 @@ async function loadEvent () {
     })
   })
 
-  const registerBtn = document.getElementById("register-btn")
+const registerBtn = document.getElementById("register-btn")
 const paymentBtn = document.getElementById("payment-btn")
 const spotNote = document.getElementById("spot-note")
 
